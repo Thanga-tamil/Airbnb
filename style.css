@@ -1,0 +1,55 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: -30px;
+    
+
+}
+
+.any{
+    border: 2px solid black;
+    width: 500px;
+    height: 20px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-decoration: none;
+    padding: 10px;
+    padding-left: 20px;
+
+}
+
+.log{
+    display: flex;
+
+    
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.line{
+    margin-top: -22px;
+}
+.container1{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-left: 20px;
+    
+    
+}
+.star{
+    float: right;
+    margin-top: -32px;
+}
+
+.img1{
+  
+   border-radius: 5%;
+
+}
